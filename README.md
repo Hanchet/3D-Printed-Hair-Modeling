@@ -1,5 +1,6 @@
 # 3D-Printed-Hair-Modeling-from-Strand-level-Hairstyles
 We create a hairstyles database based on triangle mesh.
+The Database can be download in tag.
 The xxx.dir format is the corresponding direction field of a hairstyle.
 
 Take a xxx.dir for example:
