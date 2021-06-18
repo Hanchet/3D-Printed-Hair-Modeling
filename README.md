@@ -1,7 +1,7 @@
 # 3D-Printed-Hair-Modeling-from-Strand-level-Hairstyles
 We create a hairstyles database based on triangle mesh providing 343 hairstyles.
 
-The Database(about 200mb) can be download in Releases-tags.
+The Database(about 200mb) can be download in Releases-Assets-HairstyleDatabase.rar.
 The xxx.dir format is the corresponding direction field of a hairstyle.
 
 Take a xxx.dir for example:
